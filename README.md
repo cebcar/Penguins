@@ -12,5 +12,6 @@ learning resources and activities for myself and my grandchildren
       - tutorial: one or more lessons with accompanying code exercises
     - also tagged by language or other topic
   - "estimate" in an actual estimate of time required, counting by 30-minute blocks
+    - approximation - do not spend time researching estimates
 - Epic
   - represents a goal toward which learning is expected
