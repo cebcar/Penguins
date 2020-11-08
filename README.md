@@ -1,4 +1,4 @@
-# Learn
+# Penguins
 learning resources and activities for myself and my grandchildren
 
 ### Issues and Epics
