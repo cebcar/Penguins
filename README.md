@@ -1,6 +1,6 @@
 # Penguins
 
-## [Scratch]
+## [Scratch](https://scratch.mit.edu)
   - coding with blocks
   
 ## [Code.org](https://code.org)
